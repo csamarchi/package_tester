@@ -3,11 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.8.0",
+    "d3": "^5.9.2",
     "nivo": "^0.31.0",
     "plotly": "^1.0.6",
+    "plotly.js": "^1.47.4",
     "react": "^16.8.6",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-plotly.js": "^2.3.0",
+    "react-scripts": "3.0.0",
+    "react-vega": "^6.0.1",
+    "vega": "^5.3.5"
   },
   "scripts": {
     "start": "react-scripts start",
